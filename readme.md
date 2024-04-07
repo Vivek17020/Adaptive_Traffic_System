@@ -63,7 +63,7 @@ Read more about object detection model used, working of the algorithm, and devel
 
 * Step I: Clone the Repository
 ```sh
-      $ git clone 
+      $ git clone https://github.com/Vivek17020/Adaptive_Traffic_System.git
 ```
 
 * Step II: Download the weights file from [here](https://drive.google.com/file/d/1flTehMwmGg-PMEeQCsDS2VWRLGzV6Wdo/view?usp=sharing) and place it in the Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow/bin directory
