@@ -89,7 +89,7 @@ Read more about object detection model used, working of the algorithm, and devel
 ### Dissemination
 
 
-* View the paper [here](https://ieeexplore.ieee.org/document/9358334)
+* View the paper [here](https://www.geeksforgeeks.org/object-detection-using-yolov8/)
 
 ------------------------------------------
 ### License
